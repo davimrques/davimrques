@@ -10,6 +10,6 @@
 
 
 <div style="display: inline_block"> <br/>
-    <img align="center" alt="python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fpin%2FOfficial-Python-logo-black-by-DevdForDevs%2F72876167.NP9QY&psig=AOvVaw13g1C6HKEANmxdVqxJKdzR&ust=1707431102965000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjItdWimoQDFQAAAAAdAAAAABAk">
+    <img align="center" alt="python" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png">
 </div>
 
