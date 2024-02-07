@@ -10,6 +10,6 @@
 
 
 <div style="display: inline_block"> <br/>
-    <img align="center" alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fpython-vector-logo-4431.html&psig=AOvVaw13g1C6HKEANmxdVqxJKdzR&ust=1707431102965000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjItdWimoQDFQAAAAAdAAAAABAJ">
+    <img align="center" alt="python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fpin%2FOfficial-Python-logo-black-by-DevdForDevs%2F72876167.NP9QY&psig=AOvVaw13g1C6HKEANmxdVqxJKdzR&ust=1707431102965000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjItdWimoQDFQAAAAAdAAAAABAk">
 </div>
 
